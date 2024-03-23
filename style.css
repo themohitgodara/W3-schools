@@ -1,0 +1,675 @@
+.nav-link {
+    font-size: 16px !important;
+    color: black !important;
+}
+
+.search {
+    border-radius: 30px;
+    width: 175px;
+    height: 35px;
+}
+
+.logo {
+    width: 39px;
+}
+
+/* .form {
+    position: absolute;
+}
+
+.search {
+    position: relative;
+    left: 0px;
+} */
+
+.code-icon {
+    margin: 10px 5px 0px 0px;
+    color: purple;
+}
+
+.pera-1 {
+    margin: 5px 15px 0px 0px;
+}
+
+.cart-icon {
+    margin: 10px 5px 0px 0px;
+    color: purple;
+}
+
+.pera-2 {
+    margin: 5px 15px 0px 0px;
+}
+
+.right-section button {
+    width: 93px;
+    height: 40px;
+    border-radius: 30px;
+    margin: 0px 10px;
+}
+
+.btn-1 {
+    background-color: #04AA6D;
+    color: white;
+    border: #04AA6D;
+}
+
+.btn-2 {
+    background-color: #D9EEE1;
+    border: #D9EEE1;
+}
+
+.secondary-nav li {
+    list-style: none;
+    font-size: 15px;
+}
+
+.secondary-nav ul {
+    justify-content: space-between;
+    color: white;
+    background-color: #282A35;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner-h1 {
+    position: absolute;
+    top: 80px;
+    left: 550px;
+    color: white;
+    font-size: 70px;
+}
+
+.banner-h3 {
+    position: absolute;
+    top: 180px;
+    left: 540px;
+    color: white;
+    font-size: 23px;
+    color: #FFF4A3;
+}
+
+.banner-search {
+    border: 1px solid white;
+    width: 400px;
+    padding: 10px 0px 10px 7px;
+    border-radius: 30px 0px 0px 30px;
+    font-weight: 500;
+    color: gray;
+    position: absolute;
+    top: 240px;
+    left: 520px;
+    background-color: white;
+}
+
+.banner-search2 {
+    border: 1px solid #04AA6D;
+    width: 100px;
+    padding: 10px 0px 10px 7px;
+    border-radius: 0px 30px 30px 0px;
+    font-weight: 500;
+    position: absolute;
+    top: 240px;
+    right: 520px;
+    background-color: #04AA6D;
+}
+
+.banner-search-icon {
+    margin-left: 30px;
+    color: white;
+}
+
+.banner h4 {
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    top: 320px;
+    left: 630px;
+    text-decoration: underline;
+}
+
+.lynx {
+    position: absolute;
+    top: 150px;
+    right: 150px;
+}
+
+.html {
+    font-size: 100px;
+}
+
+.html-p {
+    font-size: 19px;
+}
+
+.html-btn-1 {
+    width: 200px;
+    border-radius: 30px;
+    background-color: #04AA6D;
+    font-size: 18px;
+    color: white;
+    border-color: transparent;
+    padding: 5px 0px;
+    margin-top: 20px;
+}
+
+.html-btn-2 {
+    width: 200px;
+    border-radius: 30px;
+    background-color: #FFF4A3;
+    font-size: 18px;
+    color: black;
+    border-color: transparent;
+    padding: 5px 0px;
+    margin-top: 25px;
+}
+
+.html-btn-3 {
+    width: 200px;
+    border-radius: 30px;
+    background-color: #282A35;
+    font-size: 18px;
+    color: white;
+    border-color: transparent;
+    padding: 5px 0px;
+    margin-top: 25px;
+}
+
+.html-btn-4 {
+    width: 200px;
+    border-radius: 30px;
+    background-color: #FFC0C7;
+    font-size: 18px;
+    color: black;
+    border-color: transparent;
+    padding: 5px 0px;
+    margin-top: 25px;
+}
+
+.language-container,
+.language-section {
+    background-color: #D9EEE1;
+}
+
+.right-data {
+    width: 489px;
+    height: 470px;
+    background-color: #E7E9EB;
+    box-shadow: 0px 0px 11px 1px rgba(89, 84, 89, 1);
+    border-radius: 15px;
+
+}
+
+.right-data h2 {
+    font-size: 24px;
+    margin: 20px 0px 0px 10px;
+}
+
+.html-card {
+    width: 399px;
+    height: 300px;
+    background-color: white;
+    margin: 20px 0px 0px 20px;
+    border-left: 4px solid #04AA6D;
+}
+
+.html-btn {
+    width: 200px;
+    border-radius: 30px;
+    background-color: #04AA6D;
+    font-size: 18px;
+    color: white;
+    border-color: transparent;
+    padding: 5px 0px;
+    margin: 20px 0px 0px 20px;
+}
+
+.css-container,
+.css-section {
+    background-color: #FFF4A3;
+}
+
+.js-container,
+.js-section {
+    background-color: #282A35;
+}
+
+.python-container,
+.python-section {
+    background-color: #F3ECEA;
+}
+
+.sql-container,
+.sql-section {
+    background-color: #96D4D4;
+}
+
+.php-box {
+    width: 580px;
+    height: 250px;
+    background-color: #FFC0C7;
+    border-radius: 10px;
+}
+
+.php-box h4 {
+    font-size: 45px;
+}
+
+.php-box p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.php-box button {
+    width: 200px;
+    height: 43px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+
+.java-box {
+    background-color: #F3ECEA;
+}
+
+.w3-box {
+    background-color: #96D4D4;
+}
+
+.jquery-box {
+    background-color: #FFF4A3;
+}
+
+.cplus-box {
+    background-color: #D9EEE1;
+}
+
+.bootstrap-box {
+    background-color: #E7E9EB;
+}
+
+.library-container {
+    background-color: #282A35;
+}
+
+.c,
+.chash {
+    width: 580px;
+    height: 137px;
+    background-color: #EAB1B9;
+    border: transparent;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.chash {
+    background-color: #EAE098;
+}
+
+.hash {
+    background-color: #282A35;
+}
+
+.boxes {
+    background-color: #282A35;
+}
+
+.boxes button {
+    width: 265px;
+    height: 113px;
+    border: transparent;
+    border-radius: 7px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.r {
+    background-color: #DFD9D8;
+}
+
+.kotlin {
+    background-color: #C8DBD0;
+}
+
+.node {
+    background-color: #8BC3C4;
+}
+
+.react,
+.sass,
+.canvas,
+.matplot,
+.angular,
+.mongo,
+.cold {
+    background-color: #EAB1B9;
+}
+
+.json,
+.icons,
+.ras,
+.numpy,
+.app,
+.statistics,
+.spaces {
+    background-color: #EAE098;
+}
+
+.vue,
+.rwd,
+.cyber,
+.pandas,
+.go,
+.data,
+.postgre {
+    background-color: #DFD9D8;
+}
+
+.mysql,
+.graphics,
+.colors,
+.scipy,
+.type,
+.typing {
+    background-color: #C8DBD0;
+}
+
+.xml,
+.svg,
+.git,
+.asp,
+.django,
+.how {
+    background-color: #8BC3C4;
+}
+
+.excel {
+    font-size: 30px;
+    font-weight: 500;
+    background-color: #8BC3C4;
+}
+
+.google {
+    font-size: 30px;
+    font-weight: 500;
+    background-color: #EAE098;
+}
+
+.machine {
+    background-color: #EAB1B9;
+}
+
+.art {
+    background-color: #DFD9D8;
+}
+
+.code-editor {
+    background-color: #282A35;
+}
+
+.code-editor h1 {
+    font-size: 65px;
+    font-weight: 500;
+    color: #E7E9EB;
+}
+
+.code-editor h3 {
+    font-size: 20px;
+    color: #E7E9EB;
+}
+
+.code-editor img {
+    width: 942px;
+    height: 279px;
+}
+
+.front-btn {
+    width: 304px;
+    height: 39px;
+    background-color: #04AA6D;
+    color: white;
+    font-size: 18px;
+    border: transparent;
+    border-radius: 7px;
+    font-weight: 500;
+    margin-left: 285px;
+}
+
+.back-btn {
+    width: 358px;
+    height: 39px;
+    background-color: #EAE098;
+    color: black;
+    font-size: 18px;
+    border: transparent;
+    border-radius: 7px;
+    font-weight: 500;
+    margin-left: 285px;
+}
+
+.editor-btn {
+    display: flex;
+    flex-direction: column;
+}
+
+.spacess {
+    background-color: #282A35;
+}
+
+.spacess h1 {
+    font-size: 65px;
+    color: white;
+}
+
+.spacess h4 {
+    color: white;
+    font-size: 24px;
+}
+
+.spacess h5 {
+    color: white;
+    font-size: 24px;
+}
+
+.spacess button {
+    width: 300px;
+    height: 53px;
+    background-color: #04AA6D;
+    color: white;
+    border: transparent;
+    border-radius: 25px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.learning {
+    background-color: #D9EEE1;
+}
+
+.learning h1 {
+    font-size: 65px;
+}
+
+.learning h4 {
+    font-size: 20px;
+}
+
+.learning h5 {
+    font-size: 20px;
+}
+
+.learning button {
+    width: 300px;
+    height: 53px;
+    background-color: #04AA6D;
+    color: white;
+    border: transparent;
+    border-radius: 25px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.user {
+    background-color: #282A35;
+}
+
+.user h1 {
+    font-size: 52px;
+    color: white;
+}
+
+.user h3 {
+    font-size: 25px;
+    color: #EAB1B9;
+}
+
+.user p {
+    font-size: 20px;
+    color: #E7E9EB;
+}
+
+.user button {
+    width: 300px;
+    height: 53px;
+    background-color: #04AA6D;
+    color: white;
+    border: transparent;
+    border-radius: 25px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.picker {
+    background-color: #F3ECEA;
+}
+
+.picker h1 {
+    font-size: 65px;
+    font-weight: 500;
+}
+
+.picker p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.code-game {
+    background-color: #96D4D4;
+}
+
+.code-game h1 {
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.code-game h3 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.code-game button {
+    width: 200px;
+    height: 52px;
+    background-color: #282A35;
+    color: white;
+    border: transparent;
+    border-radius: 25px;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.test {
+    background-color: #282A35;
+}
+
+.test h1 {
+    font-size: 65px;
+    color: #E7E9EB;
+}
+
+.test h5 {
+    font-size: 20px;
+    color: #E7E9EB;
+}
+
+.Exercises {
+    width: 530px;
+    height: 172px;
+    background-color: #04AA6D;
+    border: transparent;
+    border-radius: 5px;
+    font-size: 35px;
+    color: #E7E9EB;
+    font-weight: 500;
+    margin-right: 90px;
+}
+
+.Quizzes {
+    width: 530px;
+    height: 172px;
+    background-color: #EAE098;
+    border: transparent;
+    border-radius: 5px;
+    font-size: 35px;
+    color: black;
+    font-weight: 500;
+}
+
+.template {
+    background-color: #E7E9EB;
+}
+
+.template h1 {
+    font-size: 65px;
+}
+
+.template h5 {
+    font-size: 20px;
+}
+
+.template img {
+    width: 980px;
+    height: 375px;
+}
+
+
+.template button {
+    width: 735px;
+    height: 62px;
+    background-color: #282A35;
+    border: transparent;
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+.career {
+    background-color: #282A35;
+    padding: 80px 0px 80px 130px;
+}
+
+.career h1 {
+    font-size: 62px;
+    color: #EAB1B9;
+}
+
+.career h3 {
+    font-size: 52px;
+    color: #EAB1B9;
+    margin-top: 60px;
+}
+
+.career button {
+    width: 204px;
+    height: 64px;
+    background-color: #04AA6D;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 30px;
+    border: transparent;
+    margin-top: 40px;
+}
